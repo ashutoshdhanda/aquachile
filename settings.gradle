@@ -1,0 +1,3 @@
+include ':demo-uhf_example2'
+include ':app'
+rootProject.name = "aquachile"
