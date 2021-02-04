@@ -23,7 +23,7 @@ android {
 
 dependencies {
     compile files('libs/xUtils-2.5.5.jar')
-    compile 'com.android.support:support-v4:18.0.0'
+    implementation 'com.android.support:support-v4:18.0.0'
     compile files('libs/jxl.jar')
     compile files('libs/cw-deviceapi20191022.jar')
 }

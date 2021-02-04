@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">aquachile</string>
+    <string name="button_qr">CODIGO QR</string>
+    <string name="button_RFID">RFID</string>
+    <string name="textview_qr">.....que el codigo QR leyido parezca aqui</string>
+    <string name="textview_rfid">.....que el codigo RFID leyido parezca aqui</string>
+    <string name="button_asociar">ASOCIAR</string>
 </resources>
